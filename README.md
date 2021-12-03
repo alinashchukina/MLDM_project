@@ -31,3 +31,9 @@ We tried other models, such as Resnet-18 and -34, Mobilenet and some others, but
 ### Plans to do
 
 We plan to refine main regression model and classification model by adding early stopping, adding metadata in more complex ways (e.g. with some linear layers or preprocessed in some way), tuning parameters more and providing new hypothesis on the process of photo estimation.
+
+## Our team
+
+Alina Shchukina, https://github.com/alinashchukina
+
+Maria Filippova, https://github.com/mfilippova
